@@ -1,3 +1,2 @@
-halohub/halo:2.20
-#支持指定架构
---platform=linux/arm64 torimy/halo
+# halohub/halo:2.20 --platform=linux/arm64  torimy/halo
+nginx:latest --platform=linux/arm64  torimy/halo
