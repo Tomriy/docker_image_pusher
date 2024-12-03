@@ -1,2 +1,2 @@
 # halohub/halo:2.20 --platform=linux/arm64  torimy/halo
-nginx:latest --platform=linux/arm64  torimy/halo
+nginx:1.25.3 --platform=linux/arm64  torimy/halo
